@@ -1,0 +1,52 @@
+[
+  {
+    "ad_id": "ad-facebook-001",
+    "campaign_id": "campaign-summer-2024",
+    "user_id": "user-12345",
+    "ip_address": "192.168.1.100",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X)",
+    "country": "US",
+    "device_type": "mobile",
+    "cost": 0.45
+  },
+  {
+    "ad_id": "ad-google-002",
+    "campaign_id": "campaign-summer-2024",
+    "user_id": "user-12346",
+    "ip_address": "192.168.1.101",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "country": "UK",
+    "device_type": "desktop",
+    "cost": 0.75
+  },
+  {
+    "ad_id": "ad-facebook-001",
+    "campaign_id": "campaign-back-to-school",
+    "user_id": "user-12347",
+    "ip_address": "192.168.1.102",
+    "user_agent": "Mozilla/5.0 (iPad; CPU OS 14_6 like Mac OS X)",
+    "country": "CA",
+    "device_type": "tablet",
+    "cost": 0.60
+  },
+  {
+    "ad_id": "ad-instagram-003",
+    "campaign_id": "campaign-summer-2024",
+    "user_id": "user-12348",
+    "ip_address": "192.168.1.103",
+    "user_agent": "Mozilla/5.0 (Linux; Android 11)",
+    "country": "DE",
+    "device_type": "mobile",
+    "cost": 0.50
+  },
+  {
+    "ad_id": "ad-google-002",
+    "campaign_id": "campaign-back-to-school",
+    "user_id": "user-12349",
+    "ip_address": "192.168.1.104",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)",
+    "country": "FR",
+    "device_type": "desktop",
+    "cost": 0.80
+  }
+]
